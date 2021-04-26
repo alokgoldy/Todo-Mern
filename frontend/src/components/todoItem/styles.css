@@ -1,0 +1,40 @@
+.todoItem {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  height: auto;
+  width: 550px;
+  border-bottom: 3px solid #fff;
+}
+.todo h2 {
+  font-family: "Hind", sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 100;
+}
+.edit button {
+  font-family: "Hind", sans-serif;
+  font-size: 25px;
+  color: white;
+  background: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.remove button {
+  font-family: "Hind", sans-serif;
+  font-size: 25px;
+  color: brown;
+  background: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.btn {
+  display: flex;
+  flex-direction: row;
+}

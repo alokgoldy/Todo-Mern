@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  background-color: #0c090a;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
